@@ -94,3 +94,35 @@
 2024-11-02 20:59:52,799 - root - INFO -     Great: Yes
 2024-11-02 20:59:52,799 - root - INFO -     Good hot dogs: yes
 2024-11-02 20:59:52,799 - root - INFO -     Where: Rutts hutt
+2024-11-03 13:17:34,652 - root - INFO - Logging configured.
+2024-11-03 13:17:34,654 - root - INFO - Environment variables loaded.
+2024-11-03 13:17:35,531 - root - INFO - Application started.
+2024-11-03 13:18:12,815 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-11-03 13:18:12,816 - root - INFO - I pick an apple
+2024-11-03 13:18:12,816 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-11-03 13:18:12,816 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-11-03 13:18:12,816 - root - INFO - Set example: {1, 2, 3, 4}
+2024-11-03 13:18:12,817 - root - INFO - whats different {1}
+2024-11-03 13:18:12,817 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-11-03 13:18:12,817 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-11-03 13:18:12,817 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-11-03 13:18:12,817 - root - INFO - State Abbreviation: CA for: California
+2024-11-03 13:18:12,817 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-11-03 13:18:12,817 - root - INFO - State Abbreviation: TX for: Texas
+2024-11-03 13:18:12,818 - root - INFO - State Abbreviation: FL for: Florida
+2024-11-03 13:18:12,818 - root - INFO - State Abbreviation: IL for: Illinois
+2024-11-03 13:18:12,818 - root - INFO - State Abbreviation: NY for: New York
+2024-11-03 13:18:12,818 - root - INFO - State: CA
+2024-11-03 13:18:12,818 - root - INFO -     Capital: Sacramento
+2024-11-03 13:18:12,818 - root - INFO -     Population: 39538223
+2024-11-03 13:18:12,819 - root - INFO -     Great: No
+2024-11-03 13:18:12,819 - root - INFO - State: TX
+2024-11-03 13:18:12,819 - root - INFO -     Capital: Austin
+2024-11-03 13:18:12,819 - root - INFO -     Population: 29145505
+2024-11-03 13:18:12,819 - root - INFO -     Great: Yes
+2024-11-03 13:18:12,819 - root - INFO - State: NJ
+2024-11-03 13:18:12,820 - root - INFO -     Capital: Trenton
+2024-11-03 13:18:12,820 - root - INFO -     Population: 50
+2024-11-03 13:18:12,820 - root - INFO -     Great: Yes
+2024-11-03 13:18:12,820 - root - INFO -     Good hot dogs: yes
+2024-11-03 13:18:12,820 - root - INFO -     Where: Rutts hutt
