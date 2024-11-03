@@ -14,7 +14,7 @@ class Calculator:
 
     @staticmethod
     def add(a: Decimal, b: Decimal) -> Decimal:
-        return Calculator._perofrm_operation(a, b, add)
+        return Calculator._perform_operation(a, b, add)
 
     @staticmethod
     def add(a: Decimal, b: Decimal) -> Decimal:

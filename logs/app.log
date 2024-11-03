@@ -16,3 +16,81 @@
 2024-11-01 18:58:37,678 - root - INFO - Logging configured.
 2024-11-01 18:58:37,678 - root - INFO - Environment variables loaded.
 2024-11-01 18:58:37,678 - root - CRITICAL - Oh no I'm broken
+2024-11-01 19:27:21,581 - root - INFO - Logging configured.
+2024-11-01 19:27:21,581 - root - INFO - Environment variables loaded.
+2024-11-01 19:27:21,581 - root - CRITICAL - Oh no I'm broken
+2024-11-01 19:29:25,467 - root - INFO - Logging configured.
+2024-11-01 19:29:25,468 - root - INFO - Environment variables loaded.
+2024-11-01 19:29:25,468 - root - CRITICAL - Oh no I'm broken
+2024-11-01 19:29:58,266 - root - INFO - Logging configured.
+2024-11-01 19:29:58,266 - root - INFO - Environment variables loaded.
+2024-11-01 19:29:58,267 - root - CRITICAL - Oh no I'm broken
+2024-11-01 19:51:20,489 - root - INFO - Logging configured.
+2024-11-01 19:51:20,489 - root - INFO - Environment variables loaded.
+2024-11-01 19:51:20,489 - root - CRITICAL - Oh no I'm broken
+2024-11-02 20:06:59,645 - root - INFO - Logging configured.
+2024-11-02 20:06:59,650 - root - INFO - Environment variables loaded.
+2024-11-02 20:06:59,650 - root - CRITICAL - Oh no I'm broken
+2024-11-02 20:07:48,177 - root - INFO - Logging configured.
+2024-11-02 20:07:48,178 - root - INFO - Environment variables loaded.
+2024-11-02 20:07:48,178 - root - CRITICAL - Oh no I'm broke
+2024-11-02 20:14:11,583 - root - INFO - Logging configured.
+2024-11-02 20:14:11,584 - root - INFO - Environment variables loaded.
+2024-11-02 20:17:18,392 - root - INFO - Logging configured.
+2024-11-02 20:17:18,392 - root - INFO - Environment variables loaded.
+2024-11-02 20:17:42,980 - root - INFO - Logging configured.
+2024-11-02 20:17:42,980 - root - INFO - Environment variables loaded.
+2024-11-02 20:17:42,995 - root - INFO - Application started.
+2024-11-02 20:18:29,622 - root - INFO - Logging configured.
+2024-11-02 20:18:29,622 - root - INFO - Environment variables loaded.
+2024-11-02 20:18:29,627 - root - INFO - Application started.
+2024-11-02 20:22:21,400 - root - INFO - Logging configured.
+2024-11-02 20:22:21,401 - root - INFO - Environment variables loaded.
+2024-11-02 20:22:21,410 - root - INFO - Application started.
+2024-11-02 20:40:29,940 - root - INFO - Logging configured.
+2024-11-02 20:40:29,940 - root - INFO - Environment variables loaded.
+2024-11-02 20:40:29,944 - root - INFO - Application started.
+2024-11-02 20:40:58,095 - root - INFO - Logging configured.
+2024-11-02 20:40:58,096 - root - INFO - Environment variables loaded.
+2024-11-02 20:40:58,101 - root - INFO - Application started.
+2024-11-02 20:41:50,651 - root - INFO - Logging configured.
+2024-11-02 20:41:50,652 - root - INFO - Environment variables loaded.
+2024-11-02 20:41:50,668 - root - INFO - Application started.
+2024-11-02 20:48:22,355 - root - INFO - Logging configured.
+2024-11-02 20:48:22,356 - root - INFO - Environment variables loaded.
+2024-11-02 20:48:22,362 - root - INFO - Application started.
+2024-11-02 20:54:42,606 - root - INFO - Logging configured.
+2024-11-02 20:54:42,607 - root - INFO - Environment variables loaded.
+2024-11-02 20:54:42,612 - root - INFO - Application started.
+2024-11-02 20:59:47,867 - root - INFO - Logging configured.
+2024-11-02 20:59:47,867 - root - INFO - Environment variables loaded.
+2024-11-02 20:59:48,561 - root - INFO - Application started.
+2024-11-02 20:59:52,792 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-11-02 20:59:52,793 - root - INFO - I pick an apple
+2024-11-02 20:59:52,793 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-11-02 20:59:52,793 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-11-02 20:59:52,793 - root - INFO - Set example: {1, 2, 3, 4}
+2024-11-02 20:59:52,793 - root - INFO - whats different {1}
+2024-11-02 20:59:52,794 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-11-02 20:59:52,794 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-11-02 20:59:52,794 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-11-02 20:59:52,794 - root - INFO - State Abbreviation: CA for: California
+2024-11-02 20:59:52,795 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-11-02 20:59:52,795 - root - INFO - State Abbreviation: TX for: Texas
+2024-11-02 20:59:52,795 - root - INFO - State Abbreviation: FL for: Florida
+2024-11-02 20:59:52,795 - root - INFO - State Abbreviation: IL for: Illinois
+2024-11-02 20:59:52,795 - root - INFO - State Abbreviation: NY for: New York
+2024-11-02 20:59:52,796 - root - INFO - State: CA
+2024-11-02 20:59:52,796 - root - INFO -     Capital: Sacramento
+2024-11-02 20:59:52,796 - root - INFO -     Population: 39538223
+2024-11-02 20:59:52,797 - root - INFO -     Great: No
+2024-11-02 20:59:52,797 - root - INFO - State: TX
+2024-11-02 20:59:52,797 - root - INFO -     Capital: Austin
+2024-11-02 20:59:52,797 - root - INFO -     Population: 29145505
+2024-11-02 20:59:52,797 - root - INFO -     Great: Yes
+2024-11-02 20:59:52,798 - root - INFO - State: NJ
+2024-11-02 20:59:52,798 - root - INFO -     Capital: Trenton
+2024-11-02 20:59:52,798 - root - INFO -     Population: 50
+2024-11-02 20:59:52,799 - root - INFO -     Great: Yes
+2024-11-02 20:59:52,799 - root - INFO -     Good hot dogs: yes
+2024-11-02 20:59:52,799 - root - INFO -     Where: Rutts hutt
