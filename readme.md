@@ -24,3 +24,5 @@ Use of Logging:
  https://github.com/Ognetsfan/Midterm/blob/main/app/commands/subtract/__init__.py
  EAFP: In my command class, I attempt to execute a command based on the user input. If the command does not exist, I catch the KeyError and inform the user, allowing the program to continue running instead of crashing.
  https://github.com/Ognetsfan/Midterm/blob/main/app/commands/__init__.py
+
+ Video: [text](file:///c%3A/Users/xavsp/Videos/2024-11-03%2022-34-03.mkv)
